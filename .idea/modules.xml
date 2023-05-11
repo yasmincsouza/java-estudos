@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuringasDelimitados/CuringasDelimitados.iml" filepath="$PROJECT_DIR$/CuringasDelimitados/CuringasDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/DefaultMethods/DefaultMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics2/Generics2.iml" filepath="$PROJECT_DIR$/Generics2/Generics2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCodeEEquals/HashCodeEEquals.iml" filepath="$PROJECT_DIR$/HashCodeEEquals/HashCodeEEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/InterfaceComparable/InterfaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceHeranca/InterfaceHeranca.iml" filepath="$PROJECT_DIR$/InterfaceHeranca/InterfaceHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceLocacao/InterfaceLocacao.iml" filepath="$PROJECT_DIR$/InterfaceLocacao/InterfaceLocacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceParcelasContrato/InterfaceParcelasContrato.iml" filepath="$PROJECT_DIR$/InterfaceParcelasContrato/InterfaceParcelasContrato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCompleto/JavaCompleto.iml" filepath="$PROJECT_DIR$/JavaCompleto/JavaCompleto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPOO.iml" filepath="$PROJECT_DIR$/.idea/JavaPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Predicado/Predicado.iml" filepath="$PROJECT_DIR$/Predicado/Predicado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrincipioGetPut/PrincipioGetPut.iml" filepath="$PROJECT_DIR$/PrincipioGetPut/PrincipioGetPut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set1/Set1.iml" filepath="$PROJECT_DIR$/Set1/Set1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set2/Set2.iml" filepath="$PROJECT_DIR$/Set2/Set2.iml" />
+    </modules>
+  </component>
+</project>
